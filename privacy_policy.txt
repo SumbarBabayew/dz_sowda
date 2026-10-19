@@ -1,0 +1,87 @@
+PRIVACY POLICY
+Sowda App (Daşoguz Söwda)
+
+Effective date: October 17, 2026
+
+This Privacy Policy explains what data the Sowda mobile application (the “App”, “we”, “us”) collects and processes, how it is used, and what rights you have.
+
+1. GENERAL INFORMATION
+Sowda is a classifieds service for the Dashoguz region. By using the App, you agree to this Privacy Policy. If you do not agree, please do not use the App.
+
+2. WHAT DATA WE COLLECT
+2.1. Data you provide:
+- phone number (for registration, sign-in, and SMS/OTP verification);
+- profile data (name, profile photo, and other information you enter);
+- listing and store content (text, photos, videos, prices, categories, contact details in a listing);
+- messages and requests related to use of the service.
+
+2.2. Data collected automatically:
+- device identifiers and technical information needed for the App to work;
+- authentication data (session token) stored locally on the device;
+- location data (if you grant location permission) — for map features and related functions;
+- push notification data (Firebase Cloud Messaging token) — to deliver notifications;
+- error logs and technical logs needed for service stability.
+
+2.3. Data from device permissions (with your consent):
+- internet access;
+- location access (precise / approximate);
+- notification access;
+- camera and gallery access — when adding photos/videos to listings or your profile.
+
+You may revoke permissions in your device settings; some App features may then become unavailable.
+
+3. PURPOSES OF PROCESSING
+We use data to:
+- create and manage your account;
+- publish and display listings and stores;
+- enable contact between users within the service (for example, calling a number from a listing);
+- send service and informational push notifications;
+- show location and operate map features;
+- maintain security and prevent fraud and abuse;
+- improve the App and provide user support;
+- comply with applicable law.
+
+4. SHARING WITH THIRD PARTIES
+We do not sell your personal data.
+
+Data may be shared with:
+- infrastructure and service providers needed to run the App (hosting, API, SMS/OTP delivery, push notifications via Firebase / Google);
+- competent authorities when required by law;
+- other parties only with your consent or when necessary to provide a feature you requested.
+
+Public information in listings (description, photos, phone number you choose to show, etc.) may be visible to other users of the App.
+
+5. DATA RETENTION
+We retain data for as long as needed for the purposes in this Policy, or for periods required by law.
+Settings and an authentication token may be stored locally on the device (for example, via SharedPreferences). You may sign out or uninstall the App to stop local storage.
+
+6. DATA SECURITY
+We take reasonable organizational and technical measures to protect data against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission or storage is completely secure.
+
+7. YOUR RIGHTS
+You may:
+- request access to your personal data;
+- correct inaccurate profile data;
+- request deletion of your account and related data (subject to lawful retention grounds);
+- withdraw consents where applicable (for example, disable location or notifications);
+- limit use of certain App features.
+
+To exercise these rights, contact us using the details below.
+
+8. CHILDREN’S DATA
+The App is not intended for persons under 16. We do not knowingly collect children’s personal data. If you become aware of such a case, contact us and we will take steps to delete the relevant data.
+
+9. THIRD-PARTY LINKS AND SERVICES
+The App may contain links to or integrations with third-party services. We do not control their privacy practices and are not responsible for how they process data. Please review their policies separately.
+
+10. CHANGES TO THIS POLICY
+We may update this Policy. The current version will be available in the App and/or on a related resource. Continued use of the App after changes means you accept the updated Policy, unless applicable law requires otherwise.
+
+11. CONTACT
+For questions about personal data or this Policy, contact us:
+
+App: Sowda (Daşoguz Söwda)
+Email: [add support email]
+Phone: [add support phone]
+
+— End of document —
